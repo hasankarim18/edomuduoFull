@@ -419,7 +419,7 @@ main {
 	width:100%;
 	height:40px;
 	padding-left:10px;
-	
+	border: 0;
 }
 
 .footer-widget .f-left-4 .input-mail{
@@ -446,6 +446,7 @@ main {
 	padding:5px;
 	background:#ffc178;
 	color:#fff;
+	border:0;
 }
 
 
