@@ -450,7 +450,7 @@ main {
 
 
 .footer-section {
-	padding:1.3rem 0;
+	padding:1rem 0;
 	color:#6b6b6b;
 	background:#1d232e;
 	width:100%;
@@ -458,7 +458,8 @@ main {
 
 .footer-section .footer-inner {
 	display: flex;
-    justify-content: space-between;
+        justify-content: space-between;
+	align-items: center;
 }
 
 .footer-section .right-footer {
@@ -470,6 +471,7 @@ main {
 	list-style-type:none;
 	display:flex;
 	align-content:flex-end;
+	margin-bottom: 0;
 }
 
 .footer-section .right-footer ul li {
